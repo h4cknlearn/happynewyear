@@ -14,14 +14,14 @@
 - [ ] [linux LKM](http://www.ouah.org/LKM_HACKING.html)
 - [ ] [learning kernel exploitation](https://0x434b.dev/dabbling-with-linux-kernel-exploitation-ctf-challenges-to-learn-the-ropes/)
 - [ ] [building a kernel - CS60](https://blog.tst.sh/building-a-kernel/)
-- [ ] [linu kernel hacking](https://github.com/xcellerator/linux_kernel_hacking/tree/master/3_RootkitTechniques)
+- [ ] [linux kernel hacking](https://github.com/xcellerator/linux_kernel_hacking/tree/master/3_RootkitTechniques)
 - [ ] [XNU kernel bug - apple](https://pwning.systems/posts/easy-apple-kernel-bug/)
 - [ ] [kernel memory corruption](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
 
 ### programming
 - [ ] [eudyptula](https://github.com/ayedaemon/eudyptula)
 - [ ] [creating a rootkit to learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
-- [ ] [learning C](https://github.com/h0mbre/Learning-C)
+- [ ] [learning C](https://github.com/h0mbre/Learning-C) 
 - [ ] [writing a linux debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 - [ ] [a guide to undefined behavior](https://blog.regehr.org/archives/213)
 - [ ] [how to benchmark code execution - intel](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/ia-32-ia-64-benchmark-code-execution-paper.pdf)
