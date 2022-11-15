@@ -53,3 +53,4 @@
 
 ### papers 
 - [ ] [RIDL rogue in-flight data load](https://mdsattacks.com/files/ridl.pdf)
+- [ ] [An efficient algorithm for exploiting multiple arithmetic units](https://github.com/h4cknlearn/happynewyear/blob/main/An%20efficient%20algorithm%20for%20exploiting%20multiple%20arithmetic%20units%20-%20tomasulo.pdf)
