@@ -24,7 +24,7 @@
 - [ ] [learning C](https://github.com/h0mbre/Learning-C) 
 - [ ] [writing a linux debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 - [ ] [a guide to undefined behavior](https://blog.regehr.org/archives/213)
-- [ ] [how to benchmark code execution - intel](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/ia-32-ia-64-benchmark-code-execution-paper.pdf)
+- [ ] [how to benchmark code execution times - intel](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/ia-32-ia-64-benchmark-code-execution-paper.pdf)
 - [ ] [ARM assembly basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - [ ] [NASM assembly](https://asmtutor.com/)
 
