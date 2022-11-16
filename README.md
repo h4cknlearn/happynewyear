@@ -17,6 +17,7 @@
 - [ ] [linux kernel hacking](https://github.com/xcellerator/linux_kernel_hacking/tree/master/3_RootkitTechniques)
 - [ ] [XNU kernel bug - apple](https://pwning.systems/posts/easy-apple-kernel-bug/)
 - [ ] [kernel memory corruption](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
+- [ ] [kernel debugging using kgdb/gdb](https://sploitfun.blogspot.com/2013/06/linux-kernel-debugging-using-kgdbgdb.html)
 
 ### programming
 - [ ] [eudyptula](https://github.com/ayedaemon/eudyptula)
@@ -55,3 +56,4 @@
 - [ ] [RIDL rogue in-flight data load](https://mdsattacks.com/files/ridl.pdf)
 - [ ] [An efficient algorithm for exploiting multiple arithmetic units](https://github.com/h4cknlearn/happynewyear/blob/main/An%20efficient%20algorithm%20for%20exploiting%20multiple%20arithmetic%20units%20-%20tomasulo.pdf)
 - [ ] [Jump over ASLR: Attacking Branch Predictors to Bypass ASLR](https://github.com/h4cknlearn/happynewyear/blob/main/Jump%20Over%20ASLR%20-%20attacking%20branch%20predictors%20to%20bypass%20ASLR.pdf)
+- [ ] [Foreshadow](https://github.com/h4cknlearn/happynewyear/blob/main/Foreshadow%20-%20Extracting%20the%20Keys%20to%20the%20Intel%20SGX.pdf)
